@@ -1,0 +1,32 @@
+
+> frontend@0.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m764[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m9:53:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m9:59:13 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Generate.jsx[22m
+[2m9:59:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CurriculumDetail.jsx[22m
+[2m9:59:17 am[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mremark-gfm[32m[39m
+[2m9:59:17 am[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m10:08:21 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Generate.jsx[22m
+[2m10:12:31 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Register.jsx[22m
+[2m10:12:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.jsx[22m
+[2m10:13:19 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Generate.jsx[22m
+[2m10:14:32 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m10:14:34 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m10:15:53 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m10:29:34 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Generate.jsx[22m
+[2m10:29:40 am[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mjspdf, html2canvas[32m[39m
+[2m10:29:40 am[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m10:29:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/StudentCurriculumView.jsx[22m
+[2m10:30:32 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CurriculumDetail.jsx[22m
+[2m10:30:45 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m10:41:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Generate.jsx, /src/pages/StudentCurriculumView.jsx, /src/pages/CurriculumDetail.jsx[22m
+[2m10:41:36 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Generate.jsx[22m
+[2m10:41:38 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/StudentCurriculumView.jsx[22m
+[2m10:42:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CurriculumDetail.jsx[22m
